@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ODKO88-Rtdb.aternos.me"
+    "ip": "ODKO88-Rtdb.aternos.me".
     "port": 18430,
     "version": "1.21.11"
     "try-creative": false
